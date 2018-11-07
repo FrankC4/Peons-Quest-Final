@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f2616d10854b0e34f869d9ba29e54656
+timeCreated: 1521432433
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Dampfplatz Solid
+  fontNames:
+  - Dampfplatz Solid
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
